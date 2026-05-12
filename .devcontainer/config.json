@@ -1,4 +1,3 @@
-
 #!/bin/sh
 set -e
 RELEASE="https://github.com/XTLS/Xray-core/releases/download/v26.3.27/Xray-linux-64.zip"
