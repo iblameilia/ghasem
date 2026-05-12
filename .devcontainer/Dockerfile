@@ -1,4 +1,3 @@
-
 FROM debian:bookworm-slim
 COPY setup.sh /tmp/setup.sh
 COPY config.json /etc/xray/g2ray.json
